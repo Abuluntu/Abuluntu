@@ -1,5 +1,11 @@
 # Abuluntu's home
 
+## Learning
+- C++
+- HTML, CSS
+- AppleScript
+- Shell
+
 ## PGP-key
 
 <pre>
